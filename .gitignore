@@ -1,0 +1,8 @@
+data/
+backtest*.py
+fetch_data*.py
+test_entry.py
+requirements.json
+test-in/
+test-out/
+__pycache__/
